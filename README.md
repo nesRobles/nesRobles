@@ -9,7 +9,8 @@ My interest is with desktop development currently. I am also learning web based 
 
 ### Languages and Tools:
 
-[<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][website]
+[<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][Visual Studio]
+[<img align="left" alt="CSharp" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png" />][CSharp]
 
 
 
@@ -20,4 +21,5 @@ My interest is with desktop development currently. I am also learning web based 
 
 
 
-[website]: https://visualstudio.microsoft.com/
+[Visual Studio]: https://visualstudio.microsoft.com/
+[CSharp]: https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/
