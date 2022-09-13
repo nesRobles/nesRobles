@@ -15,9 +15,8 @@ My interest is with desktop development currently. I am also learning web based 
 [<img align="left" alt="Git" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />][GIT]
 [<img align="left" alt="GitHub" width="35px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][GITHUB]
 [<img align="left" alt="Docker" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" />][DOCKER]
+[<img align="left" alt="Swagger" width="150px" src="https://static1.smartbear.co/swagger/media/assets/images/swagger_logo.svg" />][SWAGGER]
 Caliburn.Micro
-[<img align="left" alt="Docker" width="150px" src="https://static1.smartbear.co/swagger/media/assets/images/swagger_logo.svg" />][SWAGGER]
-
 
 
 
@@ -31,4 +30,4 @@ Caliburn.Micro
 [GIT]: https://git-scm.com/
 [GITHUB]: https://github.com/
 [DOCKER]: https://www.docker.com/
-[SWAGGER]: https://www.docker.com/
+[SWAGGER]: https://swagger.io/
