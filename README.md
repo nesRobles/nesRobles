@@ -27,8 +27,15 @@ My interest is with desktop development currently. I am also learning web based 
 
 ## 🏆 Top Languages:
 
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nesRobles)](https://github.com/nesRobles/github-readme-stats)
+<table>
+  <tr>
+    <td>
+      <a href="https://github.com/nesRobles/github-readme-stats">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nesRobles&layout=compact&langs_count=3" alt="top languages">
+      </a>
+    </td>
+  </tr>
+</table>
 
 
 
