@@ -22,23 +22,6 @@ My interest is with desktop development currently. I am also learning web based 
 | XAML
 | VBA
 
-<br/>
-<br/>
-
-## 🏆 Top Languages:
-
-<table>
-  <tr>
-    <td>
-      <a href="https://github.com/nesRobles/github-readme-stats">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nesRobles&layout=compact&langs_count=3" alt="top languages">
-      </a>
-    </td>
-  </tr>
-</table>
-
-
-
 [Visual Studio]: https://visualstudio.microsoft.com/
 [CSharp]: https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/
 [SQL]: https://docs.microsoft.com/en-us/sql/?view=sql-server-ver16
