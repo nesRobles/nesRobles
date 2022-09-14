@@ -22,7 +22,14 @@ My interest is with desktop development currently. I am also learning web based 
 | XAML
 | VBA
 
+<br/>
+<br/>
 
+## 🏆 Top Languages:
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nesRobles&count_private=true&show_icons=true&locale=en&layout=compact&include_all_commits=true&hide=asp,makefile" alt="nesRobles" />
+</p>
 
 
 
