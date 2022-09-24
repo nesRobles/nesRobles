@@ -33,3 +33,6 @@ My interest is with desktop development currently. I am also learning web based 
 [MySQL]: https://swagger.io/](https://www.mysql.com/
 [Postman]: https://www.postman.com/
 [SQLite]: https://www.sqlite.org/index.html
+<br>
+<br/>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nesRobles&langs_count=5)](https://github.com/nesRobles/github-readme-stats)
