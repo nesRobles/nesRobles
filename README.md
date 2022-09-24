@@ -18,7 +18,7 @@ My interest is with desktop development currently. I am also learning web based 
 [<img align="left" alt="Swagger" width="40px" src="https://user-images.githubusercontent.com/25181517/186711335-a3729606-5a78-4496-9a36-06efcc74f800.png" />][SWAGGER]
 [<img align="left" alt="MySQL" width="60px" src="https://user-images.githubusercontent.com/25181517/183896128-ec99105a-ec1a-4d85-b08b-1aa1620b2046.png" />][MySQL]
 [<img align="left" alt="Postman" width="120px" src="https://cdn.svgporn.com/logos/postman.svg" />][Postman]
-[<img align="left" alt="SQLite" width="120px" src="https://www.sqlite.org/images/sqlite370_banner.gif" />][SQLite]
+[<img align="left" alt="SQLite" width="120px" src="https://www.sqlite.org/images/sqlite370_banner.gif" />][SQLite]  
 <a href="https://caliburnmicro.com/" title="Home">Caliburn.Micro</a>
 | XAML
 | VBA
