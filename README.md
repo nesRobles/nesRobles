@@ -26,7 +26,7 @@ My interest is with desktop development currently. I am also learning web based 
 
 ## Certifications:
 
-<img src="GapPics/C#Mastercourse.JPG" alt="Logo" width="300" height="300">
+<img src="https://github.com/nesRobles/nesRobles/blob/main/Certs/C%23Mastercourse.JPG" alt="Logo" width="600" height="400">
 
 [Visual Studio]: https://visualstudio.microsoft.com/
 [CSharp]: https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/
