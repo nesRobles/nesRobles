@@ -35,5 +35,6 @@ My interest is with desktop development currently. I am also learning web based 
 [SQLite]: https://www.sqlite.org/index.html
 <br>
 <br/>
+
 ## Certifications:
-<img src="Certs/C# Mastercourse.JPG" alt="Logo" width="600" height="300">
+<img src="nesRobles/Certs/C#Mastercourse.JPG" alt="Logo" width="600" height="300">
