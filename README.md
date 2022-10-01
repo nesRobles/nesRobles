@@ -37,4 +37,5 @@ My interest is with desktop development currently. I am also learning web based 
 <br/>
 
 ## Certifications:
-<img src="GapPics/C#Mastercourse.JPG" alt="Logo" width="600" height="800">
+
+[<img src="GapPics/C#Mastercourse.JPG" alt="Logo" width="300" height="300">][SQLite] 
