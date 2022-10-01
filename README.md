@@ -23,6 +23,11 @@ My interest is with desktop development currently. I am also learning web based 
 | XAML
 | VBA
 
+
+## Certifications:
+
+<img src="GapPics/C#Mastercourse.JPG" alt="Logo" width="300" height="300">
+
 [Visual Studio]: https://visualstudio.microsoft.com/
 [CSharp]: https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/
 [SQL]: https://docs.microsoft.com/en-us/sql/?view=sql-server-ver16
@@ -36,6 +41,3 @@ My interest is with desktop development currently. I am also learning web based 
 <br>
 <br/>
 
-## Certifications:
-
-[<img src="GapPics/C#Mastercourse.JPG" alt="Logo" width="300" height="300">][SQLite] 
