@@ -34,4 +34,7 @@ My interest is with desktop development currently. I am also learning web based 
 [Postman]: https://www.postman.com/
 [SQLite]: https://www.sqlite.org/index.html
 
+<br>
+<br/>
+
 ## Certifications:
