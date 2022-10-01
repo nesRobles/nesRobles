@@ -36,4 +36,4 @@ My interest is with desktop development currently. I am also learning web based 
 <br>
 <br/>
 ## Certifications:
-<img src="nesRobles/certificate of completion for c# mastercourse.pdf" alt="Logo" width="600" height="300">
+<img src="nesRobles/Certification.JPG" alt="Logo" width="600" height="300">
